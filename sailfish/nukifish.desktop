@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+X-Nemo-Application-Type=generic
+Comment=unofficial implementation of the nuki bridge api
+Name=Nukifish
+Icon=harbour-nukifish
+Exec=harbour-nukifish
